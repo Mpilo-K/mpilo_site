@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://mpilo-k.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Mpilo Khumalo"

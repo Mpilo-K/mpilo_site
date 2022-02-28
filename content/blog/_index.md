@@ -1,7 +1,7 @@
 ---
 author: Mpilo Khumalo
 cascade:
-  author: TMpilo Khumalo
+  author: Mpilo Khumalo
   show_author_byline: true
   show_comments: true
   show_post_date: true
@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: "This is a fully featured blog that supports categories.\n"
+description: 'I write blogs on __Physiology__, __Ecology__, __Conservation__, __Forestry__, __Statistics__, __R__, __Datavis__, and __Data Analytics__. Occasionally I invite co-authors "experts" for specific topics.'
 layout: list
 show_author_byline: true
 show_button_links: false

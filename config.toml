@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Mpilo Khumalo"
   orgLocal = ""
   description = "Mpilo Khumalo portfolio and blog website."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/logo_transparent.png"
+  logo = "/img/logo_transparent.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -142,11 +142,6 @@ enableEmoji = true
     title = "Talks"
     url = "/talk/"
     weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
     
   # Configure footer  
   [[menu.footer]]

@@ -1,9 +1,9 @@
 ---
 ## Configure header of page
-text_align_right: false
+text_align_right: true
 show_title_as_headline: false
 headline: |
-  Hi, I am Mpilo Khumalo. 
+  Mpilo Khumalo 
 ---
 
 <!-- this is a subheadline -->

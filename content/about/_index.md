@@ -2,10 +2,10 @@
 cascade:
   headless: true
 description: |
-  I am a PhD candidate at Stellenbosch University with interest in data.
+  I am a PhD candidate at Stellenbosch University.
 show_header: true
 sidebar_left: true
-title: About Mpilo
+title: About Mpilo Khumalo
 ---
 
 ** index doesn't contain a body, just front matter above.

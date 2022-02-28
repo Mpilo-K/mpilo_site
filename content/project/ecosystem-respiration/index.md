@@ -11,7 +11,7 @@ layout: single
 subtitle: 
 tags:
 - hugo-site
-title: Total Savanna Ecosystem Respiration
+title: Total Ecosystem Respiration in Savanna Ecosystems
 ---
 
 ### GPP VS NEE

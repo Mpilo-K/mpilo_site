@@ -1,5 +1,5 @@
 ---
-author: Mpilo Khumalo
+author: Mpilo Khumalo, Guy Midgley & David Drew
 categories:
 - Ecology
 - Physiology

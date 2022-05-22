@@ -9,7 +9,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
-description: 'I write blogs on __Physiology__, __Ecology__, __Conservation__, __Forestry__, __Statistics__, __R__, __Datavis__, and __Data Analytics__. Occasionally I invite co-authors "experts" for specific topics.'
+description: 'I write mainly about **Science**, **Programming**, **Travel**, **Cycling**, **Hiking**, **Survival Camping**, **Self Improvement**, etc. Occasionally I invite co-authors "experts" for specific topics.'
 layout: list
 show_author_byline: true
 show_button_links: false

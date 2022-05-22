@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Mpilo Khumalo. 
+description: Get to know Mpilo Khumalo by clicking below. 
 image_left: false
 images:
 - img/savanna_lion.jpg

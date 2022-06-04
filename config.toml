@@ -1,4 +1,4 @@
-baseURL = "https://mpilo-k.netlify.app/"
+baseURL = "https://mpilokhumalo.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Mpilo Khumalo"
@@ -100,7 +100,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "researchgate" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-0502-9510"
+      url       = "https://www.researchgate.net/profile/Mpilo-Khumalo"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
@@ -112,7 +112,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://za.linkedin.com/in/mpilo-khumalo-b45786119"
+      url       = "https://za.linkedin.com/in/mpilo-khumalo"
+  [[params.social]]
+      icon      = "cv" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "/img/CV - Mpilo Khumalo (April 2022).pdf"
       
       
 [taxonomies]

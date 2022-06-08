@@ -1,5 +1,5 @@
 ---
-action_label: Get to know about Mpilo! &rarr;
+action_label: Get to know Mpilo! &rarr;
 action_link: /about
 action_type: text
 description: 

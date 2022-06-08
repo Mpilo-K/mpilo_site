@@ -9,6 +9,6 @@ excerpt: Talk on one of my MSc chapters
 layout: single
 location: Saint Francis Bay, South Africa 
 subtitle: 
-title: Respiration in savannas
+title: Respiration in savannas - SAEON GSN 12th Conference
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "An Rmarkdown post"
 subtitle: ""
-excerpt: "testing the excerpt field"
+excerpt: "Showcasing the cool things you can do with Rmarkdown"
 date: 2020-12-30
 author: "Mpilo Khumalo"
 draft: false
@@ -13,21 +13,23 @@ layout: single
 ---
 
 
-## Air quality
+## Chunk Title
 
 ```{r}
-with(airquality, boxplot(Temp ~ Month))
+#R code chunk
+
 ```
 
+## Chunk Title
 
 ```{r}
-with(airquality, plot(Ozone ~ Temp))
+#R code chunk
+
 ```
+
+## Chunk Title
 
 ```{r}
-mlev <- levels(with(airquality, as.factor(Month)))
-with(airquality, plot(Ozone ~ Temp, 
-                      pch = as.numeric(mlev), 
-                      col = mlev))
-```
+#R code chunk
 
+```

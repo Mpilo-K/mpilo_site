@@ -1,6 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: Hi, get in touch with me through social media (click on anyone below) or directly by filling in the form I have provided. Thanks. 
+description: Hi, get in touch with me through social media (choose below) or contact me directly by filling in the form I have provided. Thanks. 
 draft: false
 formspree_form_id: xnqwwadd
 layout: split-right

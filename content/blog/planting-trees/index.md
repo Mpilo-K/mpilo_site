@@ -1,13 +1,15 @@
 ---
 author: Mpilo Khumalo
-categories:
-- Theme features
+categories: 
+- Ecology
+- Management
+- Climate Change
 date: "2021-01-02"
 draft: false
-excerpt: Add tabbed sections to your posts.
+excerpt: 
 layout: single
-subtitle: How to add panelsets in plain markdown posts.
+subtitle: 
 title: Planting trees
 ---
 
-## Coing soon
+## Cool Blog Coming Soon! :)

@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all projects
     text_link_url: /project/
-description: Some of the project I am currently busy with and some that I have completed.
+description: These are some of the projects that I am currently busy with and some that I have completed.
 layout: list-grid
 show_author_byline: true
 show_button_links: false

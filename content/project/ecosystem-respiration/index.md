@@ -10,7 +10,7 @@ excerpt: About half of the carbon taken in by savanna ecosystems is released bac
 layout: single
 subtitle: 
 tags:
-- hugo-site
+- 
 title: Total Ecosystem Respiration in Savanna Ecosystems
 ---
 

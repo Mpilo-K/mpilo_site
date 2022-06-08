@@ -1,15 +1,15 @@
 ---
-action_label: Read More &rarr;
+action_label: Get to know about Mpilo! &rarr;
 action_link: /about
 action_type: text
-description: Get to know Mpilo Khumalo by clicking below. 
-image_left: false
+description: 
+image_left: true
 images:
-- img/savanna_lion.jpg
+- img/mpilo.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Ecosystems Ecologist | Data Analyst
-text_align_left: false
+subtitle: PhD Candidate at Stellenbosch University
+text_align_left: true
 title: Mpilo Khumalo
 type: home
 ---

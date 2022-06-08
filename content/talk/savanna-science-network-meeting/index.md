@@ -9,6 +9,6 @@ excerpt: Talk on one of my MSc chapters
 layout: single
 location: Kruger National Park, South Africa 
 subtitle: 
-title: Respiration in savannas
+title: Respiration in savannas - 17th Savanna Network Meeting
 ---
 

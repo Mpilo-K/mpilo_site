@@ -1,7 +1,7 @@
 baseURL = "https://mpilokhumalo.com/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Mpilo Khumalo"
+title = "Personal website of Mpilo Khumalo"
 author = "Mpilo Khumalo"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -9,7 +9,7 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5
+paginate = 5 #10
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -32,9 +32,9 @@ enableEmoji = true
   orgLocal = ""
   description = "Mpilo Khumalo portfolio and blog website."
   favicon = "/img/logo_transparent.png"
-  logo = "/img/logo_transparent.png"
+  logo = "/img/Mpilo_greentransparent.png"
   mainSections = ["blog", "project", "talk"]#["sidebar", "main"] 
-  navallcaps = true
+  navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "forest"
+  theme = "forest" #"solarizedLight"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -104,11 +104,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-0502-9510"
+      url       = "https://scholar.google.com/"
   [[params.social]]
       icon      = "inaturalist" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-0502-9510"
+      url       = "https://www.inaturalist.org/people/mpilokhumalo"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -116,7 +116,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "/img/CV - Mpilo Khumalo (April 2022).pdf"
+      url       = "/img/CV - Mpilo Khumalo (May 2022).pdf"
       
       
 [taxonomies]
@@ -128,7 +128,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About Mpilo"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -138,7 +138,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Projects"
-    title = "Project Portfolio"
+    title = "Projects"
     url = "/project/"
     weight = 3
   [[menu.header]]

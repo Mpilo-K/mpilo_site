@@ -113,10 +113,6 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://za.linkedin.com/in/mpilo-khumalo"
-  [[params.social]]
-      icon      = "cv" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "/img/CV - Mpilo Khumalo (May 2022).pdf"
       
       
 [taxonomies]

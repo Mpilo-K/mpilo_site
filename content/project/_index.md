@@ -9,7 +9,7 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 description: These are some of the projects that I am currently busy with and some that I have completed.
-layout: list-grid
+layout: list
 show_author_byline: true
 show_button_links: false
 show_post_date: false
@@ -21,6 +21,7 @@ sidebar:
   text_link_label: ""
   text_link_url: ""
   title: A Sidebar for My Projects
+thumbnail_left: false
 title: My Projects
 ---
 

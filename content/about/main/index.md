@@ -3,7 +3,7 @@
 title: "About Mpilo Khumalo" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
-number_categories: 3 # set to zero to exclude
+number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
   I am an **[Ecosystems Ecologist _(Ecophysiologist)_](https://en.wikipedia.org/wiki/Ecosystem_ecology)**. I am currently doing a PhD at __[Stellenbosch University](https://www.sun.ac.za/english)__. My current research project is called __[The EucXylo Phenomenological Trial](https://blogs.sun.ac.za/eucxylo/2020/10/12/the-beginning-of-our-phenomenological-trial/)__, where I am studying all the ecophysiological processes and environmental conditions that influence the formation of wood in forest trees.  

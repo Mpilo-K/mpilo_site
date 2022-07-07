@@ -124,7 +124,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Mpilo"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -133,20 +133,25 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Projects"
-    url = "/project/"
+    name = "Ecology"
+    title = "Ecology"
+    url = "/ecology_projects/"
     weight = 3
+  [[menu.header]]
+    name = "Data Science"
+    title = "Data Science"
+    url = "/data_science_projects/"
+    weight = 4
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "Contact"
     title = "Contact Me"
     url = "/contact/"
-    weight = 5
+    weight = 6
     
   # Configure footer  
   [[menu.footer]]

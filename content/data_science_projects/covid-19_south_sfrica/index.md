@@ -13,7 +13,7 @@ layout: single
 subtitle: 
 tags:
 - 
-title: Data Science Projects
+title: Covid-19 in South Africa
 ---
 
 ### To be added
